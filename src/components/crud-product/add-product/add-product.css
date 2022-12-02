@@ -1,0 +1,9 @@
+
+
+.image {
+	max-width: 25%;
+	max-height: 25%;
+	min-height: auto;
+	min-width: auto;
+	cursor: pointer;
+}
